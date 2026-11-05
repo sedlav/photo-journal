@@ -1,5 +1,4 @@
 baseURL = 'https://example.com/'
-languageCode = 'en-us'
 title = 'Field Notes'
 paginate = 10
 enableRobotsTXT = true
@@ -8,6 +7,8 @@ enableRobotsTXT = true
   description = 'Photographs, observations, and small stories from ordinary days.'
   author = 'Your Name'
   location = 'Somewhere, USA'
+
+locale = 'en-us'
 
 [taxonomies]
   tag = 'tags'
