@@ -6,6 +6,7 @@
     <meta name="description" content="{{ .Description | default .Site.Params.description }}">
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
     <link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+    <script src="{{ "js/site.js" | relURL }}" defer></script>
   </head>
   <body>
     <div class="site-shell">

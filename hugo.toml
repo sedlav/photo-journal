@@ -1,12 +1,12 @@
 baseURL = 'https://example.com/'
-title = 'Field Notes'
+title = 'left, right, left!'
 paginate = 10
 enableRobotsTXT = true
 
 [params]
-  description = 'Photographs, observations, and small stories from ordinary days.'
-  author = 'Your Name'
-  location = 'Somewhere, USA'
+  description = 'photo-commentary, and small stories from ordinary days.'
+  author = 'Joaquin Valdes'
+  location = 'Minnesota, USA'
 
 locale = 'en-us'
 

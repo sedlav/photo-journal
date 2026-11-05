@@ -1,6 +1,6 @@
 {{ define "main" }}
 <section class="listing">
-  <p class="eyebrow">Archive</p>
+  <p class="eyebrow">archive</p>
   <h1>{{ .Title }}</h1>
   {{ range .Pages }}<p><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span>{{ .Date.Format "2006" }}</span></p>{{ end }}
 </section>
