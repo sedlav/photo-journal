@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="intro">
+  <p class="eyebrow">A personal photo journal</p>
+  <h1>Small stories from<br><em>ordinary days.</em></h1>
+  <p class="intro-copy">{{ .Site.Params.description }}</p>
+</section>
+
+<section class="notes" aria-labelledby="notes-heading">
+  <div class="section-heading">
+    <h2 id="notes-heading">Latest notes</h2>
+    <span>{{ len (where .Site.RegularPages "Section" "posts") }} entries</span>
+  </div>
+  {{ range where .Site.RegularPages "Section" "posts" }}
+    <article class="note-card">
+      <a class="note-image" href="{{ .RelPermalink }}">
+        {{ with .Params.cover }}<img src="{{ . | relURL }}" alt="">{{ else }}<span class="image-placeholder"></span>{{ end }}
+      </a>
+      <div class="note-body">
+        <p class="note-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02 Jan 2006" }}</time>{{ with .Params.tags }} · {{ delimit . ", " }}{{ end }}</p>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Description | default (.Summary | plainify | truncate 180) }}</p>
+        <a class="read-link" href="{{ .RelPermalink }}">Read note <span>↗</span></a>
+      </div>
+    </article>
+  {{ end }}
+</section>
+{{ end }}
