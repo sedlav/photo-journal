@@ -37,4 +37,4 @@ draft: false
   <figcaption>the mpls cargo bike dads on the move.</figcaption>
 </figure>
 
-replace this paragraph with the opening and closing thoughts for the post.
+i am forever grateful for this crew.
