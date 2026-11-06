@@ -1,7 +1,9 @@
 <header class="site-header">
-  <a class="wordmark" href="{{ "" | relURL }}">{{ .Site.Title }}</a>
+  <a class="brand" href="{{ "" | relURL }}">
+    <img class="brand-mark" src="{{ "images/bird-logo.png" | relURL }}" alt="a chickadee perched on a branch">
+    <span class="wordmark">{{ .Site.Title }}</span>
+  </a>
   <nav aria-label="Main navigation">
     <a href="{{ "about/" | relURL }}">about</a>
-    <a href="{{ "tags/" | relURL }}">index</a>
   </nav>
 </header>

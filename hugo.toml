@@ -2,6 +2,7 @@ baseURL = 'https://example.com/'
 title = 'left, right, left!'
 paginate = 10
 enableRobotsTXT = true
+disableKinds = ['taxonomy', 'term']
 
 [params]
   description = 'photo-commentary, and small stories from ordinary days.'
@@ -9,9 +10,6 @@ enableRobotsTXT = true
   location = 'Minnesota, USA'
 
 locale = 'en-us'
-
-[taxonomies]
-  tag = 'tags'
 
 [markup]
   [markup.goldmark]

@@ -1,0 +1,37 @@
+---
+title: "flat white walk"
+date: 2026-11-05
+description: "gloomy. crisp air. took the opportunity to walk for a flat white while thing 1 and thing 2 rode their wheels of preference."
+tags: [smöl venture]
+cover: "DSC07000 2.JPG"
+draft: false
+---
+
+with the excuse of a mild cough, kiddos stayed at home with me. work was alerted in the early morning of this possibility. the spirits allowed for a small outing for coffee. with my A6000 strapped, a few things caught my eye.
+
+<figure>
+  <img src="DSC06978.JPG" alt="morning light on the way to coffee">
+  <figcaption>waiting patiently at the end of the alley.</figcaption>
+</figure>
+
+<figure>
+  <img src="DSC06992%202.JPG" alt="a quiet street on the way to coffee">
+  <figcaption>off they go. will they follow my instructions?</figcaption>
+</figure>
+
+<figure>
+  <img src="DSC06996%202.JPG" alt="a passing detail from the morning walk">
+  <figcaption>let's never forget: the battle over these signs continues.</figcaption>
+</figure>
+
+<figure>
+  <img src="DSC06998.JPG" alt="the shape of the morning taking form">
+  <figcaption>us someday?</figcaption>
+</figure>
+
+<figure>
+  <img src="DSC07000%202.JPG" alt="the final stretch toward coffee">
+  <figcaption>the final stretch toward brownies and flat whites.</figcaption>
+</figure>
+
+not that long ago, everyone needed a lift. now, i can hardly keep up.
