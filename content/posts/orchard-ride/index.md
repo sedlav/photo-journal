@@ -1,7 +1,7 @@
 ---
 title: "orchard ride"
 date: 2026-11-05
-description: "the mplsCDBs went on the second annual orchard ride. this place is such a gem, and Juddy remembered us from last year. she asked to take a photo of our group as 'evidence' because she had to convince her friends that our oddball group had shown up a whole year ago."
+description: "the Minneapolis Cargo Bike Dads went on the second annual orchard ride. this place is such a gem, and Juddy remembered us from last year. she asked to take a photo of our group as 'evidence' because she had to convince her friends that our oddball group had shown up a whole year ago."
 tags: [bike journal]
 cover: "DSC06094.JPG"
 draft: false
@@ -34,7 +34,7 @@ draft: false
 
 <figure>
   <img src="DSC06094.JPG" alt="a group riding bicycles through the woods">
-  <figcaption>the mpls cargo bike dads on the move.</figcaption>
+  <figcaption>the Minneapolis Cargo Bike Dads on the move.</figcaption>
 </figure>
 
 i am forever grateful for this crew.

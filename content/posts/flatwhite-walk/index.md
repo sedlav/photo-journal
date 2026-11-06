@@ -1,7 +1,7 @@
 ---
 title: "flat white walk"
 date: 2026-11-05
-description: "gloomy. crisp air. took the opportunity to walk for a flat white while thing 1 and thing 2 rode their wheels of preference."
+description: "gloomy and crisp out. the perfect weather to walk for a flat white and a brownie to share, with thing 1 and thing 2 rolling ahead on their wheels of choice."
 tags: [smöl venture]
 cover: "DSC07000 2.JPG"
 draft: false
