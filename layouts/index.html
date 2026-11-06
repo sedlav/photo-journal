@@ -10,7 +10,7 @@
         {{ else }}<span class="image-placeholder"></span>{{ end }}
       </a>
       <div class="post-card-body">
-        <p class="note-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02 jan 2006" }}</time>{{ with .Params.tags }} · {{ delimit . ", " }}{{ end }}</p>
+        <p class="note-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02 Jan 2006" }}</time>{{ with .Params.tags }} · {{ delimit . ", " }}{{ end }}</p>
         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
         <p class="post-excerpt">{{ .Description | default (.Summary | plainify | truncate 180) }}</p>
         <a class="read-link" href="{{ .RelPermalink }}">read note <span>↗</span></a>
