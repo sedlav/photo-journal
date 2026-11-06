@@ -1,5 +1,5 @@
 ---
-title: "orchard ride"
+title: "orchard hill ride"
 date: 2026-09-27
 description: "the Minneapolis Cargo Bike Dads went on the second annual orchard ride. this place is such a gem, and Juddy remembered us from last year. she asked to take a photo of our group as 'evidence' because she had to convince her friends that our oddball group had shown up a whole year ago."
 tags: [bike journal]
