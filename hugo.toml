@@ -1,15 +1,16 @@
 baseURL = 'https://example.com/'
 title = 'left, right, left!'
-paginate = 10
+locale = 'en-us'
 enableRobotsTXT = true
 disableKinds = ['taxonomy', 'term']
+
+[pagination]
+  pagerSize = 10
 
 [params]
   description = 'photo-commentary, and small stories from ordinary days.'
   author = 'Joaquin Valdes'
   location = 'Minnesota, USA'
-
-locale = 'en-us'
 
 [markup]
   [markup.goldmark]
