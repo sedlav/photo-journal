@@ -1,10 +1,10 @@
 ---
 title: "fall in cuyuna"
 date: 2026-10-02
-description: "a fall weekend of camping, mountain biking, and time together in cuyuna."
+description: "every year we pose the same question, where to go fall color peeping. when camping and riding mtbs in Cuyuna came up, we did not hesitate"
 tags: [fall, mtb, camping]
 cover: "DSC06372.JPG"
-draft: true
+draft: false
 ---
 
 <figure>
