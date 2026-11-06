@@ -7,8 +7,6 @@ cover: "DSC07000 2.JPG"
 draft: false
 ---
 
-with the excuse of a mild cough, kiddos stayed at home with me. work was alerted in the early morning of this possibility. the spirits allowed for a small outing for coffee. with my A6000 strapped, a few things caught my eye.
-
 <figure>
   <img src="DSC06978.JPG" alt="morning light on the way to coffee">
   <figcaption>waiting patiently at the end of the alley.</figcaption>
