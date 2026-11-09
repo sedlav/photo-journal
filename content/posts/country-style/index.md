@@ -4,7 +4,7 @@ date: 2026-11-07
 description: "for the second year in a row, we joined the mass start of the Country Style 50, a fall ride from Angry Catfish down to the Minnesota River Bottoms. this time, Geir (dsm) and Alex (mpls) joined us as we trudged through mud, sprawled on beds of grass, and crossed sketchy bridges."
 tags: []
 cover: "DSC07052 2.JPG"
-draft: true
+draft: false
 ---
 
 <figure>
