@@ -1,7 +1,7 @@
 ---
 title: "flat white walk"
 date: 2026-11-05
-description: "gloomy and crisp out. the perfect weather to walk for a flat white and a brownie to share, with thing 1 and thing 2 rolling ahead on their wheels of choice."
+description: "gloomy and crisp—the perfect weather for a walk, a flat white, and a brownie to share, with thing 1 and thing 2 rolling ahead on their wheels of choice."
 tags: [smöl venture]
 cover: "DSC07000 2.JPG"
 draft: false
@@ -14,7 +14,7 @@ draft: false
 
 <figure>
   <img src="DSC06992%202.JPG" alt="a quiet street on the way to coffee">
-  <figcaption>off they go. will they follow my instructions?</figcaption>
+  <figcaption>off they go. will they follow directions?</figcaption>
 </figure>
 
 <figure>
@@ -32,4 +32,4 @@ draft: false
   <figcaption>the final stretch toward brownies and flat whites.</figcaption>
 </figure>
 
-not that long ago, everyone needed a lift. now, i can hardly keep up.
+not so long ago, everyone needed a lift. now i can hardly keep up.

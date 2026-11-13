@@ -1,7 +1,7 @@
 ---
 title: "country style"
 date: 2026-11-07
-description: "for the second year in a row, we joined the mass start of the Country Style 50, a fall ride from Angry Catfish down to the Minnesota River Bottoms. this time, Geir (dsm) and Alex (mpls) joined us as we trudged through mud, sprawled on beds of grass, and crossed sketchy bridges."
+description: "for the second year in a row, we joined the mass start of the Country Style 50, a fall ride from Angry Catfish to the Minnesota River Bottoms. Geir (dsm) and Alex (mpls) joined us this time. we trudged through mud, rested on beds of grass, and crossed sketchy bridges."
 tags: []
 cover: "DSC07052 2.JPG"
 draft: false
@@ -62,4 +62,4 @@ draft: false
   <figcaption>did i mention it was muddy?</figcaption>
 </figure>
 
-i wont be forgetting this ride. it was all i wanted.
+i won’t forget this ride. it was everything i wanted.

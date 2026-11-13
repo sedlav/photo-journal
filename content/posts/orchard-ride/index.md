@@ -1,7 +1,7 @@
 ---
 title: "orchard hill ride"
 date: 2026-09-27
-description: "the Minneapolis Cargo Bike Dads went on the second annual orchard ride. this place is such a gem, and Juddy remembered us from last year. she asked to take a photo of our group as 'evidence' because she had to convince her friends that our oddball group had shown up a whole year ago."
+description: "the Minneapolis Cargo Bike Dads went on our second annual orchard ride. Juddy remembered us from last year and asked to take a group photo as evidence for her friends that our oddball crew had returned."
 tags: [bike journal]
 cover: "DSC06094.JPG"
 draft: false
@@ -9,7 +9,7 @@ draft: false
 
 <figure>
   <img src="DSC05995.JPG" alt="cargo bikes gathered in an orchard">
-  <figcaption>the bikes gathered at Juddy's orchard.</figcaption>
+  <figcaption>the bikes gathered at Juddy's orchard hill.</figcaption>
 </figure>
 
 <figure>
@@ -37,4 +37,4 @@ draft: false
   <figcaption>the Minneapolis Cargo Bike Dads on the move.</figcaption>
 </figure>
 
-i am forever grateful for this crew.
+i’m grateful for this crew.

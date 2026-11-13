@@ -1,7 +1,7 @@
 ---
 title: "fall in cuyuna"
 date: 2026-10-02
-description: "every year we pose the same question, where to go fall color peeping. when camping and riding mtbs in Cuyuna came up, we did not hesitate"
+description: "every year we ask where to go see the fall colors. when camping and riding mountain bikes in Cuyuna came up, we didn’t hesitate."
 tags: [fall, mtb, camping]
 cover: "DSC06372.JPG"
 draft: false
@@ -37,4 +37,4 @@ draft: false
   <figcaption>peak fall colors.</figcaption>
 </figure>
 
-so grateful to have friends to join us in our adventures.
+so grateful to have friends join us on these adventures.
