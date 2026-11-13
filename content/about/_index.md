@@ -8,4 +8,4 @@ i care deeply about the natural world and the kinds of communities and cities we
 
 this is a place to document that life: family, bikes, nature, the outdoors, technology, and the ongoing experiment of trying to live a little more deliberately.
 
-del austral al boreal: from south to north, with room for all the places in between.
+the name reflects my journey: i was born and raised in Chile, in the austral south of the world, and came to make Minnesota my home. del austral al boreal means “from the south to the north.”
