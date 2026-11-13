@@ -1,5 +1,5 @@
 baseURL = 'https://example.com/'
-title = 'left, right, left!'
+title = 'del austral al boreal'
 locale = 'en-us'
 enableRobotsTXT = true
 disableKinds = ['taxonomy', 'term']

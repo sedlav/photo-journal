@@ -8,4 +8,4 @@ i care deeply about the natural world and the kinds of communities and cities we
 
 this is a place to document that life: family, bikes, nature, the outdoors, technology, and the ongoing experiment of trying to live a little more deliberately.
 
-the name comes from riding the Minneapolis grid: left, right, left, and you’re almost anywhere.
+del austral al boreal: from south to north, with room for all the places in between.
