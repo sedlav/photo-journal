@@ -8,9 +8,9 @@ disableKinds = ['taxonomy', 'term']
   pagerSize = 10
 
 [params]
-  description = 'photo-commentary, and small stories from ordinary days.'
-  author = 'Joaquin Valdes'
-  location = 'Minnesota, USA'
+  description = 'photo-commentary.'
+  author = 'joaquin valdes'
+  location = 'minnesota'
 
 [markup]
   [markup.goldmark]

@@ -37,4 +37,4 @@ draft: false
   <figcaption>the Minneapolis Cargo Bike Dads on the move.</figcaption>
 </figure>
 
-i’m grateful for this crew.
+thanks for organizing again, Ben!

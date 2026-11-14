@@ -62,4 +62,4 @@ draft: false
   <figcaption>did i mention it was muddy?</figcaption>
 </figure>
 
-i won’t forget this ride. it was everything i wanted.
+that was a good run. won't be forgetting this one.

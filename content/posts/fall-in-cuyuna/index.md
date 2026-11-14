@@ -37,4 +37,4 @@ draft: false
   <figcaption>peak fall colors.</figcaption>
 </figure>
 
-so grateful to have friends join us on these adventures.
+again, Cuyuna delivers. good times with great friends.
